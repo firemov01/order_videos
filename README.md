@@ -3,7 +3,7 @@ Sort videos by schedule
 
 If you record your classes you can use this python script to sort each video separately into different folders.
 
-This script was made in python 3.7.
+This script was made in Python 3.7.
 
 1. You have to modify Orar.txt according to the following model:
   **DAY(WEEK_StartHour:EndHour_ClassName-WEEK_StartHour:EndHour_ClassName(**

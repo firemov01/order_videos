@@ -18,6 +18,7 @@ This script was made in python 3.7.
 
 After you have all the video files and the script in the same directory you have to open the terminal in the directory file. Type in terminal : ```py order_videos.py``` and that's all.
 
-This is an exemple: 
+This is an exemple:
+
 ![Example Image1](https://i.imgur.com/xzUqhP3.png)
 ![Example Image2](https://i.imgur.com/uRUagEy.png)
